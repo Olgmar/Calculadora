@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CalculadoraCursoCSharp/1.0.0": {
+        "runtime": {
+          "CalculadoraCursoCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraCursoCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
